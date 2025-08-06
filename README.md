@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Yeison Menau
 
-<!--
-**yeisonmenau/yeisonmenau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Ingeniero de Software Backend**  
+Actualmente me desempeño como Backend Software Engineer, con experiencia básica en Angular para el frontend.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** Java, Python
+- **Frameworks:** Spring, WebFlux, Microservicios
+- **Testing:** JUnit, Mockito
+- **Herramientas:** Docker, Git, RabbitMQ
+- **Cloud:** AWS
+- **Frontend:** Angular (básico)
+
+## ⚽ Intereses y Pasatiempos
+
+- Apasionado por el fútbol
+
+## 🌐 Redes Sociales
+
+- [LinkedIn](https://www.linkedin.com/in/yeisonmenau/)
+
+## 🤓 Curiosidades y Filosofía Personal
+
+> “La pasión y la curiosidad son el motor de mi aprendizaje. Cada desafío es una oportunidad para crecer.”
+
+---
+
+¡Gracias por visitar mi perfil! Si quieres saber más sobre mi trabajo o colaborar, no dudes en contactarme.
