@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Yeison Menau
+# ¡Hola! 👋 Soy Yeison Mena
 
 ## **Ingeniero de Software Backend**  
 Actualmente me desempeño como Backend Software Engineer, con experiencia básica en Angular para el frontend.
